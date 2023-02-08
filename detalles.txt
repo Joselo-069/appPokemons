@@ -1,0 +1,41 @@
+Apis:
+https://pokeapi.co/api/v2/pokemon/?offset=150&limit=150
+https://pokeapi.co/api/v2/type
+https://github.com/Kevin-Danae/PI-Pokemon/blob/main/api/src/middlewares/middleware.js
+https://pokeapi.co/api/v2/pokemon/?offset=2&limit=18 - paginate
+
+Colores:
+fondo :#fffafa o #ffffff
+white: #F5F5F5
+warning: #ffdd44	
+azul : #3B5995 #094e86 #3d81b8
+rojo: #b40421 #ef233c
+verde: #087e8b #9cb25a #5fad56
+anaranjado : #d4af37
+normla: #d2d4c8
+
+Font Family:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+Grid:
+repeat (auto-fit, minmax(150px, 1fr))
+
+Filtros:
+-tipo de pokemon
+-por bd o api
+-asc y desc (alfabético y por ataque)
+-paginado de 12
+
+Validacion:
+-Al crear pokemon no este registrado en el api y bd
+-
+
+css:
+smooth.ie
+
+Discover and collect extraordinary
+your pokemons
+
+
